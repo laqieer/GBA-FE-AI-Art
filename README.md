@@ -12,3 +12,7 @@ AI arts with GBA FE style
 ## BGM
 
 [BGM by AIVA](https://github.com/laqieer/GBA-FE-AI-Art/tree/main/artifacts/BGM)
+
+https://user-images.githubusercontent.com/8841957/196226949-dc6703ad-f672-429f-aff2-3f76b2e0e3ae.mov
+
+https://user-images.githubusercontent.com/8841957/196227061-04d065e3-a69a-4e36-b1c9-830bf9938d77.mov
